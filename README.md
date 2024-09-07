@@ -6,7 +6,7 @@ The objective of the project was to create a PL/SQL package to ```manage a shop'
 
 The project code include the package specification, the code itself, and a script demonstrating the package's usage.
 
-It allowed us to gain knowledge about the internal workings of a database and enhance our proficiency in Pl/SQL.
+It allowed us to gain knowledge about the internal workings of a database and enhance our proficiency in PL/SQL.
 
 All the functionalities were successfully implemented, and we received a ```very high score```.
 
